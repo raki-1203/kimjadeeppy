@@ -9,3 +9,5 @@
 - [chapter6](https://github.com/raki-1203/kimjadeeppy/blob/main/notebook/%EA%B9%80%EC%9E%90%EB%94%A5%ED%8C%8C_chapter6.ipynb)
 - [chapter8](https://github.com/raki-1203/kimjadeeppy/blob/main/notebook/%EA%B9%80%EC%9E%90%EB%94%A5%ED%8C%8C_chapter8.ipynb)
 - [chapter9](https://github.com/raki-1203/kimjadeeppy/blob/main/notebook/%EA%B9%80%EC%9E%90%EB%94%A5%ED%8C%8C_chapter9.ipynb)
+- [chapter10](https://github.com/raki-1203/kimjadeeppy/blob/main/notebook/%EA%B9%80%EC%9E%90%EB%94%A5%ED%8C%8C_chapter10.ipynb)
+- 
